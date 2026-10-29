@@ -1,0 +1,8 @@
+{
+  "name": "MH 智慧门店",
+  "description": "专为家具零售场景打造的 AI 视觉导购应用。MH 智慧门店通过实景融合技术将企业家具产品完美融入客户真实拍摄场景，赋能一线导购提升转化率。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
